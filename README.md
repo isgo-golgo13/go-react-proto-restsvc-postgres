@@ -1,2 +1,2 @@
-# go-rest-react
-Go (v1.15.x) REST w/Protobuf Contracts, React and Jaegar distributed tracing injection (Dockerfile included)
+# Go React-REST-Protobuf-Postgres Service using Docker
+Go (1.15.x), React, REST using Google Protobuf Payloads, Postgres and Jaegar distributed tracing injection (Dockerfile included)
